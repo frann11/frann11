@@ -3,6 +3,7 @@
 Soy Francisco Berthet Cosentino y bienvenido a mi github!
 
 - 🌱 Actualmente me encuentro estudiando desarrollo fullstack en HENRY 
+- 🌴 Realice varios cursos de desarrollo backend y SQL
 - ⚡ Creo en la mejora continua y la optimizacion como valor agregado
 - 👯  Si bien mi preferencia es con el backend, busco colaborar en proyectos de desarrollo de todo tipo, tanto Frontend como backend, asi como poder llevar adelante la implementacion de proyectos Fullstack
 
