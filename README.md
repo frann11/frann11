@@ -8,6 +8,8 @@ Soy Francisco Berthet Cosentino y bienvenido a mi github!
 - ⚡ Creo en la mejora continua y la optimizacion como valor agregado
 - 👯  Busco colaborar en proyectos de desarrollo de todo tipo tanto Frontend como Backend, asi como tambien llevar adelante la implementacion de proyectos Fullstack. 
 
+- 🚀 Apasionado por los desafios!
+
 ## Lenguajes / Tecnologias / Frameworks que uso
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
