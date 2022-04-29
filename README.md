@@ -2,7 +2,7 @@
 
 Soy Francisco Berthet Cosentino y bienvenido a mi github!
 
-- 🌱 Actualmente me encuentro estudiando DESARROLLO FULLSTACK en 🚀[HENRY](https://www.soyhenry.com/)
+- 🌱 Actualmente me encuentro estudiando DESARROLLO FULLSTACK 
 - 🌴 Tambien realice varios cursos de DESARROLLO BACKEND y SQL
 - 📏 Realizo scraping y automatizacion con PLAYWIRIGHT y en PYTHON con SELENIUM
 - ⚡ Creo en la mejora continua y la optimizacion como valor agregado
